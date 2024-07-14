@@ -110,7 +110,6 @@ int main (){
 		
 		puts(slika);
 
-		printf("\nLokacija v spominu: 0x%p\n", (pozicija_x*pozicija_z+pozicija_z));
 		Sleep(30);
 		printf ("\x1b[d");
 
